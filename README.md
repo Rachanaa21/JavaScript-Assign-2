@@ -1,1 +1,1 @@
-# JavaScript-Assign-2
+# JavaScript-Assign-2: File Structure using Flux
